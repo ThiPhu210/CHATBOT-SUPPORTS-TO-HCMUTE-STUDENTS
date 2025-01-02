@@ -3,3 +3,5 @@ When students ask a question, the system generates a response (RAG) . If the que
 ## Structure of my project:
 ### - Zeppelin Apache: Back end (json)
 ### - Flask: Front end (rar)
+### - Report for my project in Vietnamese (pdf) 
+### - Link demo youtube: https://youtu.be/jJe1c5KTf5A?si=3kAsshoLeVb8YO1J
